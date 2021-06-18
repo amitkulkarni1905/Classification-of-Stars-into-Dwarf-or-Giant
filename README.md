@@ -1,4 +1,4 @@
-# Classification-of-stars-into-Dwarf-or-Giant
+# Classification-of-Stars-into-Dwarf-or-Giant
 
 Here an exercise was done in order to classify stars having different properties & features into two main categories i.e
 
